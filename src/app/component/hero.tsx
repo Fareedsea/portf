@@ -26,10 +26,7 @@ const Hero = () => {
               />
             </h1>
             <p className="mb-8 leading-relaxed">
-              Copper mug try-hard pitchfork pour-over freegan heirloom neutra
-              air plant cold-pressed tacos poke beard tote bag. Heirloom echo
-              park mlkshk tote bag selvage hot chicken authentic tumeric
-              truffaut hexagon try-hard chambray.
+            I am passionate about the world of technology and creativity. As a budding Front End Web Developer, I am honing my skills to build engaging and user-friendly websites. With over three years of professional experience in video editing, I bring a keen eye for detail and storytelling to every project. Additionally, my expertise in Social Media Marketing allows me to craft compelling digital strategies and connect with audiences effectively. As a Prompt Engineer, I also enjoy exploring innovative solutions and enhancing user interactions. I’m excited about the future and eager to continue growing in these dynamic fields.
             </p>
             <div className="flex justify-center">
               <Link href={"/contact"}>
@@ -37,11 +34,11 @@ const Hero = () => {
                   Contact
                 </button>
               </Link>
-              <a href="/Assets/CV-Fareed.pdf">
+              <Link href="/Assets/CV-Fareed.pdf">
               <button className="ml-4 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-700 rounded text-lg">
                 Download-CV
               </button>
-              </a>
+              </Link>
             </div>
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">

@@ -15,16 +15,12 @@ export default function About() {
       />
     </div>
     <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-        Before they sold out
+      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">        
         <br className="hidden lg:inline-block" />
-        readymade gluten
+        About Me
       </h1>
       <p className="mb-8 leading-relaxed">
-        Copper mug try-hard pitchfork pour-over freegan heirloom neutra air
-        plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk
-        tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard
-        chambray.
+      I am passionate about the world of technology and creativity. As a budding Front End Web Developer, I am honing my skills to build engaging and user-friendly websites. With over three years of professional experience in video editing, I bring a keen eye for detail and storytelling to every project. Additionally, my expertise in Social Media Marketing allows me to craft compelling digital strategies and connect with audiences effectively. As a Prompt Engineer, I also enjoy exploring innovative solutions and enhancing user interactions. I’m excited about the future and eager to continue growing in these dynamic fields.
       </p>
       <div className="flex justify-center">
       <Link href="/contact">

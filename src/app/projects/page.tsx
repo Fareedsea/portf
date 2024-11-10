@@ -14,7 +14,7 @@ export default function Projects() {
         <div className="flex relative">
           <Image
             alt="Projects"
-            className="absolute inset-0 w-full h-full object-cover object-center mx-auto w-[15rem]"
+            className="absolute inset-0 w-full h-full object-cover object-center mx-auto"
             width={200}
             height={200}  
             src={require('../../../public/Assets/picture-1.jpg')}
@@ -37,7 +37,7 @@ export default function Projects() {
         <div className="flex relative">
           <Image
             alt="Projects"
-            className="absolute inset-0 w-full h-full object-cover object-center mx-auto w-[15rem]"
+            className="absolute inset-0 w-full h-full object-cover object-center mx-auto"
             width={200}
             height={200}  
             src={require('../../../public/Assets/picture-2.jpg')}
@@ -60,7 +60,7 @@ export default function Projects() {
         <div className="flex relative">
           <Image
             alt="Projects"
-            className="absolute inset-0 w-full h-full object-cover object-center mx-auto w-[15rem]"
+            className="absolute inset-0 w-full h-full object-cover object-center mx-auto"
             width={200}
             height={200}  
             src={require('../../../public/Assets/picture-3.jpg')}
@@ -83,7 +83,7 @@ export default function Projects() {
         <div className="flex relative">
           <Image
             alt="Projects"
-            className="absolute inset-0 w-full h-full object-cover object-center mx-auto w-[15rem]"
+            className="absolute inset-0 w-full h-full object-cover object-center mx-auto"
             width={200}
             height={200}  
             src={require('../../../public/Assets/picture-4.jpg')}
@@ -106,7 +106,7 @@ export default function Projects() {
         <div className="flex relative">
           <Image
             alt="Projects"
-            className="absolute inset-0 w-full h-full object-cover object-center mx-auto w-[15rem]"
+            className="absolute inset-0 w-full h-full object-cover object-center mx-auto"
             width={200}
             height={200}  
             src={require('../../../public/Assets/picture-5.jpg')}
@@ -129,7 +129,7 @@ export default function Projects() {
         <div className="flex relative">
           <Image
             alt="Projects"
-            className="absolute inset-0 w-full h-full object-cover object-center mx-auto w-[15rem]"
+            className="absolute inset-0 w-full h-full object-cover object-center mx-auto"
             width={200}
             height={200}  
             src={require('../../../public/Assets/picture-6.jpg')}

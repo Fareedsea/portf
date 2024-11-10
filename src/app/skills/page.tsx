@@ -24,8 +24,8 @@ export default function Skills() {
                 </div>
                 <div className="flex-grow">
                   <div className="relative h-1 w-full bg-gray-300 rounded-xl">
-                    <div className="absolute bg-blue-500 h-1 rounded-xl w-[100%]"></div>
-                    <p className="font-bold text-blue-500 text-right">100%</p>
+                    <div className="absolute bg-blue-500 h-1 rounded-xl w-[90%]"></div>
+                    <p className="font-bold text-blue-500 text-right">90%</p>
                     <Image
                       className="object-cover object-center rounded mx-auto w-[5rem]"
                       alt="HTML"
